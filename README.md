@@ -4,6 +4,7 @@ The project has multiple classes and sub-classes with many features within them.
 
 # Project uses following c/c++ concept
 •	Pointers
+
 •	Loops
 •	Functions
 •	If Else

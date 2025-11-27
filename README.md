@@ -6,45 +6,82 @@ The project has multiple classes and sub-classes with many features within them.
 •	Pointers
 
 •	Loops
+
 •	Functions
+
 •	If Else
+
 •	Switch
+
 •	Classes
+
 •	File handling
+
 •	C++ Graphics
+
 •	Function overriding and overloading
+
 •	Composition
 
 
 **The Project classes**
-LINES
-LINE_HOR
-LINE_VER
-BOX
-CLEARUP
-CLEARDOWN
-MENUS
-MAIN_MENU
-EDIT_MENU
-INTRODUCTION
-EMPLOYEE
-NEW_EMPLOYEE
-MODIFICATION
-DELETION
-DISPLAY
-LIST
-SALARY_SLIP
-ADD_RECORD
-MODIFY_RECORD
-DELETE_RECORD
-LASTCODE
-CODEFOUND
-RECORDNO
-FOUND_CODE
-DISPLAY_RECORD
-VALID_DATE
+
+1.	LINES
+   
+•	LINE_HOR
+
+•	LINE_VER
+
+•	BOX
+
+•	CLEARUP
+
+•	CLEARDOWN
+
+1.	MENUS
+   
+•	MAIN_MENU
+
+•	EDIT_MENU
+
+•	INTRODUCTION
+
+1.	EMPLOYEE
+   
+•	NEW_EMPLOYEE
+
+•	MODIFICATION
+
+•	DELETION
+
+•	DISPLAY
+
+•	LIST
+
+•	SALARY_SLIP
+
+•	ADD_RECORD
+
+•	MODIFY_RECORD
+
+•	DELETE_RECORD
+
+•	LASTCODE
+
+•	CODEFOUND
+
+•	RECORDNO
+
+•	FOUND_CODE
+
+•	DISPLAY_RECORD
+
+•	VALID_DATE
+
+
 
 **Project Operations**
+
 Addition of New Employee:
 
 This feature is under the public functions of class employee. The information handled in this feature are employee code number, name, address, phone number, joining date (day, month and year), designation, grade and loan.
@@ -70,4 +107,5 @@ Display List of Employees:
 This feature displays the record of all employees added in file. The records are displayed in a tabular pattern containing information such as code name of the employee, phone number, date of joining, designation, grade and salary.
 
 **Contribute**
+
 Please feel free to add your own code, fix bugs or improve the docs.

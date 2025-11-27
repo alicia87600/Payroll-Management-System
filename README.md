@@ -3,16 +3,17 @@ The project has multiple classes and sub-classes with many features within them.
 
 
 # Project uses following c/c++ concept
-Pointers
-Loops
-Functions
-If Else
-Switch
-Classes
-File handling
-C++ Graphics
-Function overriding and overloading
-Composition
+•	Pointers
+•	Loops
+•	Functions
+•	If Else
+•	Switch
+•	Classes
+•	File handling
+•	C++ Graphics
+•	Function overriding and overloading
+•	Composition
+
 
 **The Project classes**
 LINES
